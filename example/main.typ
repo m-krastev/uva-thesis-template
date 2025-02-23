@@ -25,26 +25,26 @@
 
 #uva-chapter("Introduction")
 
-#lorem(100)
+#lorem(50)
 
 == Background <background>
 
-#lorem(75)
+#lorem(50)
 
 == Literature
 
 We use standard results from @BRV2001:Modal. Also relevant for our work is
 @BB1999:IPGames, where it was proven that Logic is great.
 
-#lorem(1200)
+#lorem(50)
 
 == Criticism
 
-#lorem(150)
+#lorem(50)
 
 #uva-chapter("My Logic")
 
-#lorem(100)
+#lorem(50)
 
 == Syntax
 
@@ -96,7 +96,7 @@ In @cities we compare some cities.
 
 As we discussed in @background, Logic is great.
 
-#lorem(500)
+#lorem(50)
 
 #pagebreak()
 #bibliography("references.bib")

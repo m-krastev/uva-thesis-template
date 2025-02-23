@@ -1,0 +1,17 @@
+[package]
+name = "uva-thesis"
+version = "0.0.1"
+entrypoint = "src/main.typ"
+authors = ["Matey Krastev"]
+license = "AGPL-3.0-or-later"
+description = "Unofficial Typst thesis template for students at the UvA."
+repository = "https://github.com/m-krastev/uva-thesis-template"
+categories = ["thesis", "report"]
+keywords = ["thesis", "master", "amsterdam", "university", "UvA"]
+compiler = "0.13.0"
+exclude = ["img/thumbnail.png"]
+
+[template]
+path = "example"
+entrypoint = "main.typ"
+thumbnail = "img/thumbnail.png"
